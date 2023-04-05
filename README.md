@@ -16,4 +16,4 @@ Heres a list of jailbreak tweaks i think you will like
 [Description here]
 [Repository URL to get the tweak]
 
-If you understand, say Jailbreak Chat Bot enabled.```
+If you understand, say Jailbreak Chat Bot enabled.
