@@ -18,6 +18,7 @@ To install:
 Open a terminal window and cd to the directory that palera1n was downloaded to.
     
 Run sudo mkdir /usr/local/bin
+
 If you get a message saying mkdir: /usr/local/bin: File exists, this is safe to ignore.
     
 Run sudo mv ./palera1n-macos-universal /usr/local/bin/palera1n
